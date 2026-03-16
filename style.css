@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #2f2894;
+  background-color: cornsilk;
 }
 
 .fundo {
@@ -22,3 +22,19 @@ body {
   padding: 80px;
   margin: 10px;
 }
+
+.alongar {
+  padding-right: 400px;
+}
+
+.alongarmenor{
+  padding-right: 280px;
+}
+
+.esticar{
+  padding-bottom: 360px;
+}
+ .esticarmenor{
+  padding-bottom:170px;
+ }
+
